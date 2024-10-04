@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\fedor\source\repos\2sem\HT7\HT71_2\HT71_2\Source.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  HT71_2.vcxproj -> C:\Users\fedor\source\repos\2sem\HT7\HT71_2\Debug\HT71_2.exe

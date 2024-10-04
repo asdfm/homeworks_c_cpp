@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\fedor\source\repos\2sem\HT2\HT25\HT25\Source.cpp(37,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\fedor\source\repos\2sem\HT2\HT25\HT25\Source.cpp(41,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  HT25.vcxproj -> C:\Users\fedor\source\repos\2sem\HT2\HT25\Debug\HT25.exe

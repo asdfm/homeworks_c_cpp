@@ -1,0 +1,4 @@
+﻿  INT10c.c
+C:\Users\fedor\source\repos\HT3\INT10c\INT10c\INT10c.c(25,61): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\fedor\source\repos\HT3\INT10c\INT10c\INT10c.c(15,9): warning C4101: 'z': unreferenced local variable
+  INT10c.vcxproj -> C:\Users\fedor\source\repos\HT3\INT10c\Debug\INT10c.exe

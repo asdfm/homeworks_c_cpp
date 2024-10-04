@@ -1,0 +1,7 @@
+﻿  HT6_2.c
+C:\Users\fedor\source\repos\HT6\HT6_2\HT6_2\HT6_2.c(6,28): warning C4047: '=': 'FILE **' differs in levels of indirection from 'FILE *'
+C:\Users\fedor\source\repos\HT6\HT6_2\HT6_2\HT6_2.c(10,32): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'FILE **'
+C:\Users\fedor\source\repos\HT6\HT6_2\HT6_2\HT6_2.c(10,29): warning C4024: 'fgets': different types for formal and actual parameter 3
+C:\Users\fedor\source\repos\HT6\HT6_2\HT6_2\HT6_2.c(15,12): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'FILE **'
+C:\Users\fedor\source\repos\HT6\HT6_2\HT6_2\HT6_2.c(15,9): warning C4024: 'fclose': different types for formal and actual parameter 1
+  HT6_2.vcxproj -> C:\Users\fedor\source\repos\HT6\HT6_2\Debug\HT6_2.exe

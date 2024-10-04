@@ -1,0 +1,3 @@
+﻿  HT02.cpp
+C:\Users\fedor\source\repos\HT02\HT02\HT02.cpp(9,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  HT02.vcxproj -> C:\Users\fedor\source\repos\HT02\Debug\HT02.exe

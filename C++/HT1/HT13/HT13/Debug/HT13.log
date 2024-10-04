@@ -1,0 +1,3 @@
+﻿  HT13.cpp
+C:\Users\fedor\source\repos\2sem\HT1\HT13\HT13\HT13.cpp(11,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  HT13.vcxproj -> C:\Users\fedor\source\repos\2sem\HT1\HT13\Debug\HT13.exe

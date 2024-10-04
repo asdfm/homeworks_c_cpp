@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\fedor\source\repos\2sem\HT5\HT53\HT53\Source.cpp(15,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\fedor\source\repos\2sem\HT5\HT53\HT53\Source.cpp(23,20): warning C4018: '<': signed/unsigned mismatch
+  HT53.vcxproj -> C:\Users\fedor\source\repos\2sem\HT5\HT53\Debug\HT53.exe

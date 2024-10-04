@@ -1,0 +1,3 @@
+﻿  Knight's_move.c
+C:\Users\fedor\source\repos\1sem\Knight\Knight\Knight's_move.c(108): warning C4715: 'optimize': not all control paths return a value
+  Knight.vcxproj -> C:\Users\fedor\source\repos\1sem\Knight\Debug\Knight.exe

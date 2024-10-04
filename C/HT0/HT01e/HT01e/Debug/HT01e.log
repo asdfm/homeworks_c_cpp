@@ -1,0 +1,3 @@
+﻿  HT01e.cpp
+C:\Users\fedor\source\repos\HT0\HT01e\HT01e\HT01e.cpp(8,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  HT01e.vcxproj -> C:\Users\fedor\source\repos\HT0\HT01e\Debug\HT01e.exe
